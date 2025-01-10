@@ -2,7 +2,7 @@
 
 This Code is based on NeurIPS 2019 paper "Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models".
 
-![]()
+![](https://github.com/jinkwan1115/DILATE-Metric/img/DILATE.png)
 
 Unlike the original purpose of using DILATE as a loss function in the paper, the code has been modified and released to utilize it as an evaluation metric for time series forecasting.
 
